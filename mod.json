@@ -1,0 +1,11 @@
+{
+	"name": "pictocanvas",
+	"displayName": "PicToCanvas",
+	"author": "four đi coppy",
+	"description": "biến hình ảnh thành canvas schematics.\n[stat]Yêu cầu bản mod hỗ trợ: [#00aaff]four/four_ui-lib[].",
+	"version": "2.5.8",
+	"dependencies": ["four_ui-lib"],
+	"minGameVersion": 140,
+	"hidden": true,
+	"repo": "four/pictocanvas"
+}
